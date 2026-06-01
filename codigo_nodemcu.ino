@@ -4,8 +4,8 @@
 // ==========================================
 // CONFIGURAÇÕES DE REDE E BROKER MQTT
 // ==========================================
-const char* ssid     = "SUA_REDE_WIFI"; // Ajuste seu Wi-Fi
-const char* password = "SUA_SENHA_WIFI";     // Ajuste sua Senha
+const char* ssid     = "SUA_REDE_WIFI";
+const char* password = "SUA_SENHA_WIFI";
 
 const char* mqtt_server = "broker.hivemq.com";
 const int mqtt_port     = 1883;
