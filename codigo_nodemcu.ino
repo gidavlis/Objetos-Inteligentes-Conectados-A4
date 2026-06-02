@@ -10,7 +10,7 @@ const char* password = "SUA_SENHA_WIFI";
 const char* mqtt_server = "broker.hivemq.com";
 const int mqtt_port     = 1883;
 
-// Tópicos MQTT do seu projeto simplificado
+// Tópicos MQTT
 const char* TOPICO_CHUVA  = "mackenzie/gideias/chuva";
 const char* TOPICO_LED    = "mackenzie/gideias/led"; 
 
